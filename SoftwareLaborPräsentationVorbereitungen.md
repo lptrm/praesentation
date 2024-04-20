@@ -39,19 +39,19 @@ Vielen Dank für das Bereitstellen der ausführlichen Informationen und Bewertun
   
 - Schluss: Fasse die Kernpunkte zusammen, gib einen Ausblick auf das nächste Release und schließe mit einer positiven Note, die das Publikum motiviert und den Bogen zur Einleitung schlägt.
 
-## Überzeugungskraft und Selbstpräsentation:
+## Überzeugungskraft und Selbstpräsentation
 
 - Ethos: Zeigt eure Kompetenz durch klare Erklärungen, präzise Antworten auf Fragen und einen strukturierten Ablauf der Präsentation. Eure Integrität wird durch offenes Adressieren von Problemen und Herausforderungen sowie dem Umgang mit Feedback demonstriert.
 - Logos: Argumentiert logisch und stellt sicher, dass die Inhalte verständlich und nachvollziehbar sind. Jede User Story sollte klar und mit Relevanz für das Projektziel präsentiert werden.
 - Pathos: Schafft eine Verbindung zum Publikum, indem ihr auf gemeinsame Erfahrungen oder Ziele eingeht, etwa den Wunsch nach nachhaltiger Technologieentwicklung.
 
-## Medieneinsatz:
+## Medieneinsatz
 
 - Folien: Setze Folien ein, die die Kernaussagen unterstützen und durch Bilder und Diagramme die Inhalte visualisieren. Achte auf Lesbarkeit und vermeide Überfrachtung.
 
-## Abschluss und Sicherheit:
+## Abschluss und Sicherheit
 
 - Vorbereitung: Übe die Präsentation mehrmals, um Sicherheit zu gewinnen.
 - Feedback: Hole dir vorab Feedback von Teammitgliedern oder anderen Studierenden, um Verbesserungspotenzial zu erkennen.
 
----
+[Element: hr]
