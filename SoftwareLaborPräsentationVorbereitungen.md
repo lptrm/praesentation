@@ -2,7 +2,7 @@
 
 ## Hauptteil Inhalt
 
-1. Einführung in Release 2?
+1. Einführung in Release 2
      - Beginne mit einer kurzen Zusammenfassung des ersten Releases und wie dieses die Basis für die aktuellen User Stories geschaffen hat.
      - Erläutere die Ziele von Release 2 und wie diese auf den Anforderungen der Nutzer und der Vision des Produkts aufbauen.
 2. Organisatorische Herausforderungen und Lösungen
