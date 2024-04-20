@@ -12,13 +12,13 @@
       - Außerdem evtl. wenn Zeit zu kurz noch Chat-System.
 4. User Stories mit Live Demo
       - Demonstration der Schlüsselfunktionen: Führe vor, wie ein Nutzer Kontakt zu einem Anbieter aufnimmt, wie man Anzeigen erstellt und bearbeitet, sowie das Benachrichtigungssystem.
-            - Nutzerinteraktion (LABSWPCC-6): Erläutere, wie Nutzer nun direkt über die Plattform kommunizieren können.
-            - Erweiterte Anzeigenfunktion (LABSWPCC-18): Zeige, wie Anbieter Fotos und Beschreibungen zu ihren Anzeigen hinzufügen können, um die Interaktion zu verbessern.
-            - Benachrichtigungssystem (LABSWPCC-10 & LABSWPCC-31): Beschreibe, wie das Benachrichtigungssystem funktioniert und wie es Nutzern hilft, relevante Anzeigen nicht zu verpassen.
-            - Verbesserungen in der Registrierung und Anzeigenkategorisierung: Gehe darauf ein, wie die einfache Abmeldung (LABSWPCC-25) und die Kategorisierung von Produkten (LABSWPCC-28) die Benutzererfahrung verbessern.
+      - Nutzerinteraktion (LABSWPCC-6): Erläutere, wie Nutzer nun direkt über die Plattform kommunizieren können.
+      - Erweiterte Anzeigenfunktion (LABSWPCC-18): Zeige, wie Anbieter Fotos und Beschreibungen zu ihren Anzeigen hinzufügen können, um die Interaktion zu verbessern.
+      - Benachrichtigungssystem (LABSWPCC-10 & LABSWPCC-31): Beschreibe, wie das Benachrichtigungssystem funktioniert und wie es Nutzern hilft, relevante Anzeigen nicht zu verpassen.
+      - Verbesserungen in der Registrierung und Anzeigenkategorisierung: Gehe darauf ein, wie die einfache Abmeldung (LABSWPCC-25) und die Kategorisierung von Produkten (LABSWPCC-28) die Benutzererfahrung verbessern.
       - Evtl. Demo der UI/UX Verbesserungen: Zeige die verbesserte Benutzeroberfläche.
 5. Ausblick auf Release 3
-       - Gib einen kurzen Überblick darüber, welche User Stories im nächsten Release geplant sind, insbesondere solche, die direkt auf dem Feedback und den Erkenntnissen aus Release 2 basieren
+      - Gib einen kurzen Überblick darüber, welche User Stories im nächsten Release geplant sind, insbesondere solche, die direkt auf dem Feedback und den Erkenntnissen aus Release 2 basieren
 
 Vielen Dank für das Bereitstellen der ausführlichen Informationen und Bewertungskriterien. Es ist gut zu sehen, dass ihr eine klare Vorstellung davon habt, wie die Präsentation strukturiert sein sollte und was von euch erwartet wird. Basierend auf den Ratschlägen der Dozierenden und der Bewertungsmatrix können wir nun eine starke Präsentation entwickeln.
 
