@@ -20,10 +20,14 @@ jobs:
           mkdir -p ./docs
           pandoc SoftwareLaborPräsentationVorgaben.md -o ./docs/SoftwareLaborPräsentationVorgaben.html
 
+      - name: Change remote URL to include access token
+        run: git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/lptrm/praesentation.git
       - name: Commit and push to main branch
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add ./docs/*
-          git commit -m "Update GitHub Pages documentation"
-          git push
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add ./docs/*
+            git commit -m "Update GitHub Pages documentation"
+            git push --set-upstream origin main
+          env:
+            ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
