@@ -5,23 +5,25 @@ on:
       - main
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
       - name: Install Pandoc
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc
-      - name: Convert Markdown to HTML
+
+      - name: Convert Markdown to HTML and move to /docs folder
         run: |
           mkdir -p ./docs
-          pandoc SoftwareLaborPräsentationVorgaben.md -o SoftwareLaborPräsentationVorgaben.html
-          pandoc SoftwareLaborPräsentationVorgaben.md -o SoftwareLaborPräsentationVorgaben.html
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v4
-        with:
-          branch: gh-pages
-          folder: .
+          pandoc SoftwareLaborPräsentationVorgaben.md -o ./docs/SoftwareLaborPräsentationVorgaben.html
 
-          
+      - name: Commit and push to main branch
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ./docs/*
+          git commit -m "Update GitHub Pages documentation"
+          git push
