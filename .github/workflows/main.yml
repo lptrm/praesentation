@@ -2,10 +2,10 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - main
+      - main  # Or your default branch
 
 jobs:
-  build-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -15,19 +15,13 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc
 
-      - name: Convert Markdown to HTML and move to /docs folder
+      - name: Convert Markdown to HTML
         run: |
-          mkdir -p ./docs
-          pandoc SoftwareLaborPräsentationVorgaben.md -o ./docs/SoftwareLaborPräsentationVorgaben.html
+          pandoc SoftwareLaborPräsentationVorgaben.md -o SoftwareLaborPräsentationVorgaben.html
 
-      - name: Change remote URL to include access token
-        run: git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/lptrm/praesentation.git
-      - name: Commit and push to main branch
-        run: |
-            git config --local user.email "action@github.com"
-            git config --local user.name "GitHub Action"
-            git add ./docs/*
-            git commit -m "Update GitHub Pages documentation"
-            git push --set-upstream origin main
-          env:
-            ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v4
+        with:
+          branch: gh-pages  # Or your chosen branch for GitHub Pages
+          folder: .  # Adjust if your HTML files are in a different directory
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # This is your Personal Access Token
