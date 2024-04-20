@@ -20,8 +20,6 @@
 5. Ausblick auf Release 3
       - Gib einen kurzen Überblick darüber, welche User Stories im nächsten Release geplant sind, insbesondere solche, die direkt auf dem Feedback und den Erkenntnissen aus Release 2 basieren
 
-Vielen Dank für das Bereitstellen der ausführlichen Informationen und Bewertungskriterien. Es ist gut zu sehen, dass ihr eine klare Vorstellung davon habt, wie die Präsentation strukturiert sein sollte und was von euch erwartet wird. Basierend auf den Ratschlägen der Dozierenden und der Bewertungsmatrix können wir nun eine starke Präsentation entwickeln.
-
 ## Äußerer Rahmen deiner Präsentation
 
 - Warum? Das Ziel ist es, den aktuellen Stand des Projekts zu präsentieren, insbesondere die umgesetzten User Stories, und die Zuhörer von der Qualität und Relevanz eurer Arbeit zu überzeugen.
