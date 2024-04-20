@@ -52,4 +52,4 @@
 - Vorbereitung: Übe die Präsentation mehrmals, um Sicherheit zu gewinnen.
 - Feedback: Hole dir vorab Feedback von Teammitgliedern oder anderen Studierenden, um Verbesserungspotenzial zu erkennen.
 
-[Element: hr]
+<hr>
