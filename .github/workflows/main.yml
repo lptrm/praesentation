@@ -24,4 +24,4 @@ jobs:
         with:
           branch: gh-pages  # Or your chosen branch for GitHub Pages
           folder: .  # Adjust if your HTML files are in a different directory
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # This is your Personal Access Token
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} 
