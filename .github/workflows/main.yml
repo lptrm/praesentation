@@ -2,7 +2,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - main  # Or your default branch
+      - main
 
 jobs:
   deploy:
@@ -22,6 +22,6 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v4
         with:
-          branch: gh-pages  # Or your chosen branch for GitHub Pages
-          folder: .  # Adjust if your HTML files are in a different directory
+          branch: gh-pages
+          folder: .
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} 
