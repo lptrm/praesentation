@@ -1,8 +1,22 @@
 # Vorbereitungen
 
+## Wer macht was?
+
+Einleitung Jan
+
+Hauptteil:
+
+1. Eric
+2. Jan
+3. Jan
+4. (Erst Jan dann Eric)
+5. Eric
+
+Schluss Eric?
+
 ## Hauptteil Inhalt
 
-1. Einführung in Release 2
+1. Einführung in Release 2?
      - Beginne mit einer kurzen Zusammenfassung des ersten Releases und wie dieses die Basis für die aktuellen User Stories geschaffen hat.
      - Erläutere die Ziele von Release 2 und wie diese auf den Anforderungen der Nutzer und der Vision des Produkts aufbauen.
 2. Organisatorische Herausforderungen und Lösungen
@@ -12,13 +26,13 @@
       - Außerdem evtl. wenn Zeit zu kurz noch Chat-System.
 4. User Stories mit Live Demo
       - Demonstration der Schlüsselfunktionen: Führe vor, wie ein Nutzer Kontakt zu einem Anbieter aufnimmt, wie man Anzeigen erstellt und bearbeitet, sowie das Benachrichtigungssystem.
-      - Nutzerinteraktion (LABSWPCC-6): Erläutere, wie Nutzer nun direkt über die Plattform kommunizieren können.
-      - Erweiterte Anzeigenfunktion (LABSWPCC-18): Zeige, wie Anbieter Fotos und Beschreibungen zu ihren Anzeigen hinzufügen können, um die Interaktion zu verbessern.
-      - Benachrichtigungssystem (LABSWPCC-10 & LABSWPCC-31): Beschreibe, wie das Benachrichtigungssystem funktioniert und wie es Nutzern hilft, relevante Anzeigen nicht zu verpassen.
-      - Verbesserungen in der Registrierung und Anzeigenkategorisierung: Gehe darauf ein, wie die einfache Abmeldung (LABSWPCC-25) und die Kategorisierung von Produkten (LABSWPCC-28) die Benutzererfahrung verbessern.
+            - User Stories aus Sprint 2 -> Jan
+            - User Stories aus Sprint 3 -> Eric
       - Evtl. Demo der UI/UX Verbesserungen: Zeige die verbesserte Benutzeroberfläche.
 5. Ausblick auf Release 3
-      - Gib einen kurzen Überblick darüber, welche User Stories im nächsten Release geplant sind, insbesondere solche, die direkt auf dem Feedback und den Erkenntnissen aus Release 2 basieren
+       - Gib einen kurzen Überblick darüber, welche User Stories im nächsten Release geplant sind, insbesondere solche, die direkt auf dem Feedback und den Erkenntnissen aus Release 2 basieren
+
+Vielen Dank für das Bereitstellen der ausführlichen Informationen und Bewertungskriterien. Es ist gut zu sehen, dass ihr eine klare Vorstellung davon habt, wie die Präsentation strukturiert sein sollte und was von euch erwartet wird. Basierend auf den Ratschlägen der Dozierenden und der Bewertungsmatrix können wir nun eine starke Präsentation entwickeln.
 
 ## Äußerer Rahmen deiner Präsentation
 
@@ -47,9 +61,7 @@
 
 - Folien: Setze Folien ein, die die Kernaussagen unterstützen und durch Bilder und Diagramme die Inhalte visualisieren. Achte auf Lesbarkeit und vermeide Überfrachtung.
 
-## Abschluss und Sicherheit
+## Abschluss und Sicherheit:
 
 - Vorbereitung: Übe die Präsentation mehrmals, um Sicherheit zu gewinnen.
-- Feedback: Hole dir vorab Feedback von Teammitgliedern oder anderen Studierenden, um Verbesserungspotenzial zu erkennen.
-
-<hr>
+- Feedback: Hole dir vorab Feedback von Teammitgliedern oder anderen Studierenden, um Verbesserungspotenzial zu erkennen
