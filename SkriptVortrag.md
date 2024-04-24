@@ -76,3 +76,5 @@ Wie bei den meisten Gruppen war die größte Herausforderung des Releases, dass 
 ### Ausblick auf Release 3
 
 ## Schluss
+
+<hr/>
