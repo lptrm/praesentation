@@ -242,3 +242,5 @@ In großen Räumen schwierig wegen Lesbarkeit
 - Animationen & Folien Striptease: Weniger ist meist mehr
 - Folien-Schlachten (mind. 90 Sekunden pro Folie)
 - Vermeiden: Folien ohne Nutzen
+
+<hr/>
