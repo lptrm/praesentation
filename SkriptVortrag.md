@@ -2,6 +2,18 @@
 
 ## Einleitung
 
+Guten Tag und vielen Dank, dass Sie heute hier sind. Mein Name ist [Dein Name] und gemeinsam mit meinem herausragenden Team freue ich mich, Ihnen die Fortschritte und Hürden auf unserem Weg durch das zweite Release unseres Projekts "Convenient Community" zu präsentieren. 
+
+Lassen Sie uns mit einer kleinen Begebenheit beginnen, die unseren Arbeitsprozess veranschaulicht: Stellen Sie sich eine Gruppe von Bergsteigern vor, die sich auf den Weg zum Gipfel machen. Jeder bringt unterschiedliche Fähigkeiten und Ausrüstung mit. Anfangs ist der Pfad steinig und jeder Schritt erfordert vollen Einsatz. Doch mit jedem Meter, den die Gruppe aufsteigt, verbessert sich ihre Technik, sie passen sich an das Terrain an und lernen, einander zu vertrauen und zu unterstützen.
+
+Genau wie diese Bergsteiger, stießen auch wir auf unseren ersten 'Gipfeln' – User Stories des ersten Releases – auf Schwierigkeiten. Wir hatten mit neuen und unbekannten Technologien zu kämpfen, die unsere Koordination und Zusammenarbeit auf die Probe stellten. Aber mit jedem Problem, das wir gemeinsam lösten, wuchsen wir über uns hinaus, verbesserten unsere Fähigkeiten und unsere Zusammenarbeit.
+
+Heute sind wir hier, um Ihnen zu zeigen, wie diese Erfahrungen uns stärker gemacht haben und wie sie in das zweite Release eingeflossen sind. Wir werden Ihnen nicht nur die technischen Aspekte unserer Arbeit vorstellen, sondern auch die Prozesse und Entscheidungen, die uns hierher gebracht haben.
+
+Begleiten Sie uns auf dieser Reise, auf der jedes abgeschlossene Sprint und jede implementierte User Story ein weiterer Schritt nach oben ist, auf dem Weg zum Gipfel eines nahtlosen, benutzerzentrierten Produkts.
+
+Fragen bitte am Ende!
+
 ## Hauptteil
 
 ### Einführung in Release 2
@@ -96,19 +108,16 @@ Die Beschreibung hatten wir bei der Implementierung der Anzeigen direkt schon mi
 Hier haben wir uns angeschaut, wie andere Applikationen diese Funktion implementieren. Die Wahl fiel relativ schnell auf einen modernen Ansatz mit einem Chat-Bereich, sodass Echtzeitkommunikation möglich ist im Gegensatz zu einem mail-ähnlichen System.
 
 1. App öffnen, Nutzer bereits angemeldet
-2. Auf Anzeigen klicken?
-3. Anzeigen anklicken, zur Detailansicht wechseln
-4. Weiterleitung zu Chat
-5. Schreiben der Nachricht
-6. Eric Empfängt Nachricht, Benachrichtigungen?
-7. Antwort der Nachricht Empfangen
-8. Backspace auf die Chats
-9. fertig
+2. Auf Anzeigen klicken, zur ANzeigenübersicht
+3. fremde Anzeigen anklicken, zur Detailansicht wechseln
+4. Eric Empfängt Nachricht, Benachrichtigungen?
+5. Antwort der Nachricht Empfangen
+6. Backspace auf die Chats
+7. fertig
 
 #### Als Interessent möchte ich in App Benachrichtigungen erhalten, wenn es Anfragen von Interessenten für meine Anzeige gibt
 
-*ÜBERLEITUNG AN ERIC* Wurde implizit gezeigt, aber mein Kollege wird Ihnen die Benachrichtigungs-Funktion in einer weiteren User Story präsentieren, da wir versuchen, die Komponenten wiederverwendbar zu designen und zu implementieren.
-
+*ÜBERLEITUNG AN ERIC* Wurde indirekt gezeigt, aber mein Kollege wird Ihnen die später noch einmal Benachrichtigungs-Funktion als Teil des dritten Sprintes, da wir versuchen, die Komponenten wiederverwendbar zu designen und zu implementieren.
 
 Kommen wir zu den Stories aus Sprint 3
 
@@ -120,7 +129,7 @@ Kommen wir zu den Stories aus Sprint 3
 4. Anzeigen markieren (nur wenn zeit übrig)
 5. Anzeige als nicht mehr verfügbar(nur wenn zeit übrig) !!!Könnte sehr Zeitintensiv sein
 6. Registrierung aufheben (nur wenn zeit übrig)(würde sich gut am Ende anbieten)
-																																	
+
 *STORY 1 FOLIE*
 
 #### Als Nutzer*in möchte ich mich An- und Abmelden. War gleichzeitig die Story mit der höchsten Priorisierung und mit den meisten Storypoints des dritten Sprints
@@ -159,18 +168,8 @@ Im folgenden haben wir eine Funktion implementiert welche einem Benachrichtigung
 1. sollte immer noch angemeldet sein
 2. Zweites Telefon
 3. Nachrichtenfunktion sollte schon gezeigt sein
-4. Zweites Telefon schick Nachricht an Vorführ Telefon]
-5. Beten das Firefox nicht diesen macht]
-
-#### Als Anbieter möchte ich meine Anzeigen als "nicht mehr verfügbar" markieren können.
-
-*OPTIONAL STORY 4 FOLIE*
-
-Wenn man ein Auge auf eine bestimmte Anzeige geworfen hat und diese nicht verpassen möchte, kann man diese natürlich markieren um sie scheller wieder zu finden.
-
-*ZUR SMARTPHONE ANSICHT WECHSELN*
-
-1. Einfach nur eine Anzeige markieren fertig
+4. Zweites Telefon schick Nachricht an Vorführ Telefon
+5. Beten das Firefox nicht diesen macht
 
 ### Ausblick auf Release 3
 
@@ -181,8 +180,16 @@ zweiten Release, darunter zum Beispiel die einrichtung des eigenen Nutzerprofils
 
 ## Schluss
 
-*ENDE FOLIE DIE POSTIVE PUNKTE AUFLISTET*
+*FOLIE MIT ZUSAMMENFASSUNG*
 
--Sehr postiver Trend bei den Burndown charts im vergleich zu den vorherigen Sprints
+Während wir uns dem Ende unserer Präsentation nähern, erinnere ich mich an die Geschichte der Bergsteiger, mit der wir begonnen haben. Wie sie haben auch wir eine beträchtliche Strecke zurückgelegt. Jeder Sprint war ein weiterer Schritt auf unserem Weg, und wie die Bergsteiger, die den Gipfel erreichen, können wir nun auf eine Landschaft voller erreichter Ziele zurückblicken.
+
+Die technischen und organisatorischen Herausforderungen, die wir Ihnen heute präsentiert haben, waren unsere steilen Hänge und herausfordernden Pfade. Aber genau wie unsere Bergsteiger haben wir uns angepasst, unsere Werkzeuge geschärft und unsere Teamdynamik gestärkt.
+
+Wir möchten Ihnen danken, dass Sie Teil unserer Expedition waren und uns durch diesen Teil unserer Reise begleitet haben. Das nächste Camp liegt bereits vor uns – das dritte Release. Wir sind zuversichtlich, dass die bisherigen Erfahrungen, die wir gesammelt haben, uns dabei helfen werden, die kommenden Herausforderungen mit Bravour zu meistern.
+
+Zum Abschluss noch eine persönliche Anmerkung: Diese Reise wäre nicht möglich gewesen ohne die Hingabe jedes einzelnen Teammitglieds, das seine Expertise und Leidenschaft eingebracht hat. Wir sind mehr als nur eine Gruppe von Entwicklerinnen und Entwicklern – wir sind ein Team, das gemeinsam wächst, sich gegenseitig unterstützt und zusammen den Gipfel erreichen wird.
+
+Vielen Dank für Ihre Aufmerksamkeit, und wir freuen uns auf die Fragen, die Sie vielleicht für uns haben.
 
 <hr/>
