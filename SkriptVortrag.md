@@ -191,5 +191,3 @@ Wir möchten Ihnen danken, dass Sie Teil unserer Expedition waren und uns durch 
 Zum Abschluss noch eine persönliche Anmerkung: Diese Reise wäre nicht möglich gewesen ohne die Hingabe jedes einzelnen Teammitglieds, das seine Expertise und Leidenschaft eingebracht hat. Wir sind mehr als nur eine Gruppe von Entwicklerinnen und Entwicklern – wir sind ein Team, das gemeinsam wächst, sich gegenseitig unterstützt und zusammen den Gipfel erreichen wird.
 
 Vielen Dank für Ihre Aufmerksamkeit, und wir freuen uns auf die Fragen, die Sie vielleicht für uns haben.
-
-<hr/>
