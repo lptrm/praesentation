@@ -65,5 +65,3 @@ Vielen Dank für das Bereitstellen der ausführlichen Informationen und Bewertun
 
 - Vorbereitung: Übe die Präsentation mehrmals, um Sicherheit zu gewinnen.
 - Feedback: Hole dir vorab Feedback von Teammitgliedern oder anderen Studierenden, um Verbesserungspotenzial zu erkennen
-
-<hr/>
